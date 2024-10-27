@@ -1,18 +1,21 @@
-**Portfolio**
 
-Portfolio link : [singharshika.github.io](https://singharshika.github.io/)
+ Portfolio
 
-**Website Preview:**
+ 
+ https://singharshika.github.io/
 
-**Features**
+
+Website Preview
+
+Features 📋
 ⚡️ Fully Responsive
 ⚡️ Valid HTML5 & CSS3
 ⚡️ Typing animation using Typed.js
 ⚡️ Easy to modify
 
-**Sections**
 
-✔️ About /n
+Sections 📚
+✔️ About
 ✔️ Interests
 ✔️ Education
 ✔️ Online Certification
@@ -22,6 +25,7 @@ Portfolio link : [singharshika.github.io](https://singharshika.github.io/)
 ✔️ Resume
 ✔️ Contact Info
 
-**Tools Used**
-GitHub Pages - To host the website (HTML, CSS, JS).
+Tools Used 🛠️
+GitHub Pages - To host my static website (HTML, CSS, JS).
+
 

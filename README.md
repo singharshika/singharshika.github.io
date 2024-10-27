@@ -11,7 +11,8 @@ Portfolio link : [singharshika.github.io](https://singharshika.github.io/)
 ⚡️ Easy to modify
 
 **Sections**
-✔️ About
+
+✔️ About /n
 ✔️ Interests
 ✔️ Education
 ✔️ Online Certification

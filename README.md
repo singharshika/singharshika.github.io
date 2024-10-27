@@ -25,7 +25,7 @@
 ✔️ Resume
 ✔️ Contact Info
 
-**Tools Used 🛠️**
+**Tools Used 🛠️** : 
 GitHub Pages - To host my static website (HTML, CSS, JS).
 
 
